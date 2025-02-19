@@ -18,7 +18,7 @@ This project implements an end-to-end face recognition and detection system usin
 ## **Installation**  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/MohamedFarrag28/End-to-End-Face-Recognition-Detection-Transfer-Learning-ONNX-Deployment.git
+   git clone https://github.com/MohamedFarrag28/End-to-End-Face-Recognition-Detection-Transfer-Learning-and-Deployment.git
    cd End-to-End-Face-Recognition-Detection-Transfer-Learning-ONNX-Deployment
    ```
 2. **Install dependencies:**  
@@ -56,4 +56,4 @@ face_recognition_project/
 
 🚀 **Ready to recognize faces in real-time!**  
 
-📌 **GitHub Repository:** [End-to-End Face Recognition & Detection](https://github.com/MohamedFarrag28/End-to-End-Face-Recognition-Detection-Transfer-Learning-ONNX-Deployment)
+📌 **GitHub Repository:** [End-to-End Face Recognition & Detection](https://github.com/MohamedFarrag28/End-to-End-Face-Recognition-Detection-Transfer-Learning-and-Deployment.git)
