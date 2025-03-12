@@ -47,6 +47,22 @@ face_recognition_project/
 │── requirements.txt           # Dependencies
 │── README.md                  # Project documentation
 ```
+## **Example of Face Recognition Output**
+
+### Similarity Based Test Example:
+Here is an example of what the system looks like with similarity-based recognition:
+
+![Similarity Based Test](output_samples/Similarity_based_test_2.png)
+
+This image shows how the system works with different similarity thresholds and how faces are recognized.
+
+### Check Unknown Faces Example:
+Another example showing the system detecting unknown faces:
+
+![Check Unknown Faces](output_samples/Check_Unknown.png)
+
+This image illustrates the detection of unknown faces and how they are processed.
+
 
 ## **Acknowledgments**  
 - OpenCV for face detection  
